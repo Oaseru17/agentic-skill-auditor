@@ -12,11 +12,11 @@ git clone https://github.com/Oaseru17/agentic-skill-auditor.git
 
 Then from your agent (Claude Code, Cursor, Copilot, Windsurf, etc.):
 
-> "Run the agentic skill auditor on my project"
+> "Audit my agentic workflow on my project"
 
 or
 
-> "Scan my agentic engineering setup using ./agentic-skill-auditor/scan.sh"
+> "Scan my agentic engineering setup using /agentic-skill-auditor"
 
 The agent executes `scan.sh`, reads the structured output (including machine-readable JSON), and gives you personalized recommendations based on your results, your stack, and the tools you already have installed.
 
